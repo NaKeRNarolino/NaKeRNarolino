@@ -4,4 +4,4 @@
 ##### Minecraft Bedrock Addon Developer
 
 Currently:
-Making a Rust crate for addon development
+Idk
