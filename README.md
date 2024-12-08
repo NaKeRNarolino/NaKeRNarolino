@@ -1,7 +1,4 @@
 # NaKeR (aka Narolino)
-#### TS, Flutter/Dart, Rust(learning)
+#### TS, Flutter/Dart, Rust
 
 ##### Minecraft Bedrock Addon Developer
-
-Currently:
-Working on Prairie
